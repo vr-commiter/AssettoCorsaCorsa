@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "nKV/P5XJ4Cac0YGU01sjTMqA55ZR1plzY9QE8+P2MRl1R3DVqWNN1bFzJ+HW7ZR6gwPDLRwoOLzpBKaDFwMOMw==",
+  "success": true,
+  "projectFilePath": "F:\\_ModProject\\ACC\\ACC_TrueGear\\ACC_TrueGear\\ACC_TrueGear.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\thomsen.acctools.sharedmemory\\1.1.0\\thomsen.acctools.sharedmemory.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
